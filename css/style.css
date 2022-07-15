@@ -1,0 +1,25 @@
+body{
+    background-color: #f5f5dd;
+    padding-top: 3em;
+}
+div{
+    width: 10em;
+    height: 10em;
+    margin-top: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.d1{
+    background-color: rgba(0,0,0,1);
+}
+.d2{
+    background-color: rgba(0,0,0,0.75);
+}
+
+.d3{
+    background-color: rgba(0,0,0,0.5);
+}
+
+.d4{
+    background-color: rgba(0,0,0,0.25);
+}
